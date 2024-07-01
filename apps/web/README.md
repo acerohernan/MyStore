@@ -5,8 +5,8 @@
 - [x] Prettier
 - [x] Eslint
 - [x] Husky
-- [ ] TailwindCSS
-- [ ] Storybook
+- [x] TailwindCSS
+- [x] Storybook
 - [ ] Module federation
 - [ ] Unit testing
 - [ ] Integration testing
