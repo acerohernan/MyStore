@@ -1,0 +1,7 @@
+#! /bin/bash
+
+echo "Formatting the files..."
+yarn format
+
+echo "Linting the files..."
+yarn lint
